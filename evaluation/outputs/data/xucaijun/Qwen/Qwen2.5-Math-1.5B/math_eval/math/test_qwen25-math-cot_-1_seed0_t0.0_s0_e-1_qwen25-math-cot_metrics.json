@@ -1,0 +1,9 @@
+{
+    "num_samples": 5000,
+    "num_scores": 5000,
+    "timeout_samples": 2,
+    "empty_samples": 1002,
+    "acc": 22.3,
+    "time_use_in_second": 1944.8937139511108,
+    "time_use_in_minite": "32:24"
+}
